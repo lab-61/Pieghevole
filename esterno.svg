@@ -30,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="332.21283"
-     inkscape:cy="199.85287"
+     inkscape:cx="354.04304"
+     inkscape:cy="256.99573"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -279,25 +279,8 @@
        id="path4202"
        d="m 250.71429,608.79077 0,496.42853"
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:22.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="624.57141"
-       y="751.57648"
-       id="text4205"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4207"
-         x="624.57141"
-         y="751.57648"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle">presenta:</tspan><tspan
-         sodipodi:role="line"
-         x="624.57141"
-         y="773.45148"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle"
-         id="tspan4209">il manuale minimo</tspan></text>
     <rect
-       y="783.64795"
+       y="867.64795"
        x="511.01651"
        height="105.28742"
        width="229.34064"
@@ -306,30 +289,30 @@
     <text
        sodipodi:linespacing="125%"
        id="text4213"
-       y="797.29077"
+       y="881.29077"
        x="513.42859"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          sodipodi:role="line"
          id="tspan4245"
          x="513.42859"
-         y="797.29077">Con questo <tspan
+         y="881.29077">Con questo <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold'"
    id="tspan4259">pieghevole</tspan> vogliamo dare</tspan><tspan
          sodipodi:role="line"
          id="tspan4247"
          x="513.42859"
-         y="814.47827">una semplice panoramica su alcuni</tspan><tspan
+         y="898.47827">una semplice panoramica su alcuni</tspan><tspan
          sodipodi:role="line"
          id="tspan4249"
          x="513.42859"
-         y="831.7287"><tspan
+         y="915.7287"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold'"
    id="tspan4261">strumenti</tspan> che permettono di avere</tspan><tspan
          sodipodi:role="line"
          id="tspan4253"
          x="513.42859"
-         y="848.97919"><tspan
+         y="932.97919"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold'"
    id="tspan4263">privacy</tspan> e <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
@@ -337,48 +320,48 @@
          sodipodi:role="line"
          id="tspan4255"
          x="513.42859"
-         y="866.16669">approfondite e altri materiali si trovano</tspan><tspan
+         y="950.16669">approfondite e altri materiali si trovano</tspan><tspan
          sodipodi:role="line"
          x="513.42859"
-         y="883.41711"
+         y="967.41711"
          id="tspan4301">in rete e sul nostro sito <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold'"
    id="tspan4289">lab61.info</tspan>.</tspan><tspan
          sodipodi:role="line"
          id="tspan4257"
          x="513.42859"
-         y="900.6676" /></text>
+         y="984.6676" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="625.81299"
-       y="1031.2302"
+       y="1017.2302"
        id="text4308"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="625.81299"
-         y="1031.2302"
+         y="1017.2302"
          id="tspan4312"
          style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';text-align:center;writing-mode:lr-tb;text-anchor:middle">Nessun dispositivo è stato maltrattato da software proprietario per la</tspan><tspan
          sodipodi:role="line"
          x="625.81299"
-         y="1040.6052"
+         y="1026.6052"
          style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';text-align:center;writing-mode:lr-tb;text-anchor:middle"
          id="tspan4316">realizzazione di questo pieghevole.</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4318"
-       y="1019.2302"
+       y="1005.2302"
        x="653.81299"
        style="font-style:normal;font-weight:normal;font-size:7.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan4322"
          style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Oblique';text-align:center;writing-mode:lr-tb;text-anchor:middle"
-         y="1019.2302"
+         y="1005.2302"
          x="653.81299"
          sodipodi:role="line">Rilasciato sotto licenza CC-BY-NC-SA.</tspan></text>
     <g
-       transform="matrix(0.41662415,0,0,-0.42023184,531.95455,1020.0208)"
+       transform="matrix(0.41662415,0,0,-0.42023184,531.95455,1006.0208)"
        inkscape:label="by-nc-sa-eu"
        id="g4353">
       <g
@@ -480,5 +463,142 @@
            d="m 86.07,35.246 c -2.242,2.242 -4.992,3.359 -8.242,3.359 -3.215,0 -5.93,-1.117 -8.16,-3.359 -2.281,-2.32 -3.422,-5.066 -3.422,-8.234 0,-3.172 1.141,-5.895 3.422,-8.176 2.285,-2.281 5.004,-3.422 8.16,-3.422 3.192,0 5.957,1.152 8.301,3.449 2.207,2.184 3.309,4.903 3.309,8.149 0,3.246 -1.122,5.992 -3.368,8.234 z M 84.617,20.371 c -1.914,-1.894 -4.168,-2.84 -6.762,-2.84 -2.593,0 -4.828,0.938 -6.703,2.813 -1.879,1.875 -2.816,4.097 -2.816,6.668 0,1.086 0.172,2.113 0.508,3.082 l 3.074,-1.36 -0.219,0 0,-1.379 1.086,0 c 0,-0.195 -0.019,-0.386 -0.019,-0.582 l 0,-0.328 -1.067,0 0,-1.379 1.262,0 c 0.176,-1.031 0.562,-1.863 1.086,-2.523 1.086,-1.438 2.836,-2.215 4.734,-2.215 1.246,0 2.371,0.371 3.031,0.738 l -0.468,2.157 c -0.406,-0.215 -1.317,-0.508 -2.211,-0.508 -0.973,0 -1.883,0.293 -2.504,0.992 -0.289,0.328 -0.504,0.777 -0.641,1.359 l 4.223,0 5.996,-2.656 c -0.418,-0.734 -0.941,-1.414 -1.59,-2.039 z m -7.539,6.074 -0.027,0.02 0.043,-0.02 -0.016,0 z m 3.61,0.91 0.171,0 0,1.379 -3.285,0 -1.336,0.59 c 0.114,0.262 0.25,0.492 0.41,0.672 0.602,0.738 1.454,1.047 2.387,1.047 0.856,0 1.649,-0.25 2.156,-0.465 l 0.543,2.215 c -0.699,0.309 -1.726,0.582 -2.91,0.582 -1.828,0 -3.379,-0.738 -4.484,-1.98 -0.246,-0.286 -0.461,-0.602 -0.656,-0.938 l -3.813,1.688 c 0.371,0.554 0.805,1.085 1.309,1.593 1.82,1.856 4.043,2.782 6.675,2.782 2.633,0 4.868,-0.926 6.707,-2.782 1.856,-1.836 2.786,-4.078 2.786,-6.726 0,-0.875 -0.102,-1.696 -0.297,-2.473 l -6.363,2.816" />
       </g>
     </g>
+    <rect
+       y="751.64795"
+       x="257.58795"
+       height="263.21426"
+       width="233.62636"
+       id="rect5770"
+       style="opacity:0.65399996;fill:#ffffff;fill-opacity:1;stroke-width:0.52399999;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5772"
+       y="765.29077"
+       x="259.42859"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'Top Secret';-inkscape-font-specification:'Top Secret, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan5786"
+         y="765.29077"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line">Viviamo in un mondo sempre più </tspan><tspan
+         y="782.47827"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5809">tecnologico e interconnesso, in cui le </tspan><tspan
+         y="799.66577"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5811">nostre comunicazioni e i nostri pensieri </tspan><tspan
+         y="816.85327"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5813">transitano necessariamente attraverso </tspan><tspan
+         y="834.04077"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5815">la Rete. Depositiamo incessantemente </tspan><tspan
+         y="851.22827"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5817">dati sui server commerciali e negli spazi</tspan><tspan
+         y="868.41577"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5819">di controllo virtuale, non-luoghi che </tspan><tspan
+         y="885.60327"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5821">nella vita reale eviteremmo!</tspan><tspan
+         y="902.79077"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5823">E' proprio grazie a queste inconsapevoli</tspan><tspan
+         y="919.97827"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5825">abitudini che permettiamo al potere di</tspan><tspan
+         y="937.16577"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5827">entrare nelle nostre vite, per profilarci,</tspan><tspan
+         y="954.35327"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5829">normalizzarci e reprimerci.</tspan><tspan
+         y="971.54077"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5905">Dobbiamo essere utenti della tecnologia</tspan><tspan
+         y="988.72827"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5907">e non usati da essa, dobbiamo difendere</tspan><tspan
+         y="1005.9158"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5911">il diritto alla privacy e alla riservatezza.</tspan><tspan
+         y="1023.1033"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5899" /><tspan
+         y="1040.2908"
+         x="259.42859"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         id="tspan5853" /></text>
+    <rect
+       style="opacity:0.65399996;fill:#ffffff;fill-opacity:1;stroke-width:0.52399999;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect5855"
+       width="229.34064"
+       height="90.287422"
+       x="509.01651"
+       y="751.64795" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="511.42859"
+       y="765.29077"
+       id="text5857"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5883"
+         x="511.42859"
+         y="765.29077">Lab61 è un collettivo nato all'interno</tspan><tspan
+         sodipodi:role="line"
+         x="511.42859"
+         y="782.47827"
+         id="tspan5887">degli spazi autogestiti, con l'obiettivo </tspan><tspan
+         sodipodi:role="line"
+         x="511.42859"
+         y="799.66577"
+         id="tspan5891">di (ri)creare spazi di agibilità e di</tspan><tspan
+         sodipodi:role="line"
+         x="511.42859"
+         y="816.85327"
+         id="tspan5897">contropotere per il movimento, nella</tspan><tspan
+         sodipodi:role="line"
+         x="511.42859"
+         y="834.04077"
+         id="tspan5893">Rete e attraverso la Rete.</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5885"
+         x="511.42859"
+         y="851.22827" /></text>
   </g>
 </svg>

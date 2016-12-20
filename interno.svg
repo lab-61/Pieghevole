@@ -164,15 +164,6 @@
        gradientTransform="matrix(1.0009941,0,0,0.92038266,3120.9655,225.67496)" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5827"
-       id="linearGradient5831"
-       x1="1238.7381"
-       y1="387.72756"
-       x2="1298.456"
-       y2="387.72756"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient5833"
        id="linearGradient5837"
        x1="968.26976"
@@ -192,14 +183,13 @@
        y2="4823.9099" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5827"
-       id="linearGradient5857"
+       xlink:href="#linearGradient5833"
+       id="linearGradient5764"
        gradientUnits="userSpaceOnUse"
-       x1="1238.7381"
-       y1="387.72756"
-       x2="1298.456"
-       y2="387.72756"
-       gradientTransform="translate(-152.45131,234.29134)" />
+       x1="968.26976"
+       y1="-859.06675"
+       x2="1080.5181"
+       y2="-859.06675" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -208,21 +198,21 @@
      borderopacity="1"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="1.6484375"
      inkscape:cx="382.2343"
      inkscape:cy="165.98548"
      inkscape:document-units="px"
-     inkscape:current-layer="g5809"
+     inkscape:current-layer="g3633"
      showgrid="true"
      fit-margin-left="1"
      fit-margin-top="1"
      fit-margin-bottom="1"
      borderlayer="true"
-     inkscape:window-width="1566"
-     inkscape:window-height="892"
-     inkscape:window-x="277"
-     inkscape:window-y="77"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:bbox-paths="false"
      inkscape:bbox-nodes="false"
@@ -569,24 +559,28 @@
            id="tspan4304"
            style="fill:#ffffff"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';fill:#ffffff"
-   id="tspan4326">Tails</tspan> è un sistema operativo live</tspan><tspan
+   id="tspan4326">Tails</tspan> è un sistema operativo <tspan
+   style="-inkscape-font-specification:'Latin Modern Sans Bold';font-family:'Latin Modern Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan5756">GNU/</tspan></tspan><tspan
            sodipodi:role="line"
            x="44.841633"
            y="261.07458"
            id="tspan4306"
-           style="fill:#ffffff">orientato alla <tspan
+           style="fill:#ffffff"><tspan
+   style="-inkscape-font-specification:'Latin Modern Sans Bold';font-family:'Latin Modern Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+   id="tspan5758">Linux</tspan> live orientato alla <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold';fill:#ffffff"
-   id="tspan4356">sicurezza</tspan>. Può essere</tspan><tspan
+   id="tspan4356">sicurezza</tspan>. </tspan><tspan
            sodipodi:role="line"
            x="44.841633"
            y="291.79559"
            id="tspan4308"
-           style="fill:#ffffff">avviato da una chiavetta USB così</tspan><tspan
+           style="fill:#ffffff">Può essere avviato da una chiavetta</tspan><tspan
            sodipodi:role="line"
            x="44.841633"
            y="322.51663"
            id="tspan4310"
-           style="fill:#ffffff">da non lasciare tracce. </tspan></text>
+           style="fill:#ffffff">USB così da non lasciare tracce. </tspan></text>
       <rect
          y="371.91473"
          x="38.008404"
@@ -2061,18 +2055,22 @@
          id="text5505"
          y="397.90414"
          x="941.90442"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.57681441px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.57681465px;line-height:125%;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            sodipodi:role="line"
-           id="tspan5665"><tspan
-   style="-inkscape-font-specification:'Latin Modern Sans Bold';font-family:'Latin Modern Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-   id="tspan5671">ChatSecure</tspan> e <tspan
-   style="-inkscape-font-specification:'Latin Modern Sans Bold';font-family:'Latin Modern Sans';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-   id="tspan5673">Signal</tspan> sono</tspan><tspan
+           id="tspan5665"
+           x="941.90442"
+           y="397.90414"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold'"
+   id="tspan5673">Signal</tspan> è un app per la chat</tspan><tspan
            sodipodi:role="line"
-           id="tspan5667">due app che permettono</tspan><tspan
+           id="tspan5669"
+           x="941.90442"
+           y="428.62515">orientata alla sicurezza che</tspan><tspan
            sodipodi:role="line"
-           id="tspan5669">di chattare in modo sicuro.</tspan></text>
+           x="941.90442"
+           y="459.34619"
+           id="tspan5768">permette anche le chiamate.</tspan></text>
       <rect
          style="opacity:0.58999999;fill:#000000;fill-opacity:1"
          id="rect5519"
@@ -2109,18 +2107,13 @@
       </g>
       <g
          id="g5809"
-         transform="matrix(0.58752108,0,0,0.57102189,669.41614,958.62368)">
+         transform="matrix(0.58752108,0,0,0.57102189,669.41614,911.76539)">
         <path
-           style="fill:#2a93e8;stroke:url(#linearGradient5837);stroke-width:1.61702254;stroke-miterlimit:4;stroke-dasharray:none"
+           style="fill:#2a93e8;stroke:url(#linearGradient5837);stroke-width:1.61702251;stroke-miterlimit:4;stroke-dasharray:none"
            d="m 1027.9081,-801.24154 c -0.01,-6.5061 0.234,-6.19461 -5.0905,-6.54256 -39.33342,-2.57045 -64.08876,-39.90874 -51.03962,-76.9824 19.06618,-54.16834 98.26742,-47.04726 107.73552,9.68662 5.0145,30.04794 -8.5548,52.82757 -44.9706,75.49451 -7.1522,4.45186 -6.6266,4.58308 -6.6348,-1.65617 z m 4.4351,-43.2256 c 0,-0.77421 -0.4226,-4.47132 -0.9392,-8.21579 -0.9393,-6.80813 -0.9393,-6.80813 1.0702,-8.9605 6.6106,-7.08115 1.6099,-18.44595 -8.1019,-18.41234 -9.6443,0.0334 -14.5506,11.18175 -8.0895,18.38198 1.9282,2.14884 1.9282,2.14884 0.8655,9.82695 -1.352,9.76794 -2.1634,8.78736 7.2714,8.78736 7.9235,0 7.9235,0 7.9235,-1.40766 z"
            id="path5819"
            inkscape:connector-curvature="0" />
       </g>
-      <path
-         style="fill:#ffffff;stroke:url(#linearGradient5831);stroke-width:3.14404484;stroke-miterlimit:4;stroke-dasharray:none"
-         d="m 1256.1579,418.51932 c 0,-6.5699 0,-6.5699 -2.5623,-6.5699 -17.145,0 -20.6838,-32.13685 -4.0894,-37.13742 1.6639,-0.50139 1.966,-1.40847 2.3361,-7.01428 1.5697,-23.77076 33.9506,-22.97796 34.0396,0.8334 0.02,5.23447 0.057,5.31216 3.1127,6.3859 7.3003,2.56558 9.9298,8.29645 9.3943,20.47443 -0.5246,11.92925 -5.5862,16.40061 -18.6089,16.43873 -6.5724,0.0192 -6.5724,0.0192 -14.3046,6.58914 -4.2527,3.61344 -8.0889,6.56989 -8.5248,6.56989 -0.4361,0 -0.7927,-2.95645 -0.7927,-6.56989 z m 15.3225,-21.39068 c 0,-1.88812 0.6882,-4.59833 1.5293,-6.02267 2.7662,-4.68435 -1.9413,-8.91068 -6.9965,-6.2813 -1.8663,0.9707 -2.4583,5.56827 -0.8421,6.53907 0.4958,0.29777 0.9014,2.4891 0.9014,4.86962 0,4.22516 0.064,4.32824 2.704,4.32824 2.5444,0 2.7039,-0.20256 2.7039,-3.43296 z m 7.2107,-28.60792 c 0,-15.2484 -18.7847,-15.70319 -19.67,-0.47622 -0.3627,6.23751 -0.3627,6.23751 9.6536,6.23751 10.0164,0 10.0164,0 10.0164,-5.76129 z"
-         id="path5787"
-         inkscape:connector-curvature="0" />
       <rect
          y="572.76318"
          x="930.45258"
@@ -2155,11 +2148,6 @@
            x="1042.6982"
            y="624.13977"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Latin Modern Sans';-inkscape-font-specification:'Latin Modern Sans Bold'">+</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path5855"
-         d="m 1103.7057,652.81053 c 0,-6.5699 0,-6.5699 -2.5623,-6.5699 -17.145,0 -20.6838,-32.13685 -4.0894,-37.13742 1.6639,-0.50139 1.966,-1.40847 2.3361,-7.01428 1.5697,-23.77076 33.9506,-22.97796 34.0396,0.8334 0.02,5.23447 0.057,5.31216 3.1127,6.3859 7.3003,2.56558 9.9298,8.29645 9.3943,20.47443 -0.5246,11.92925 -5.5862,16.40061 -18.6089,16.43873 -6.5724,0.0192 -6.5724,0.0192 -14.3046,6.58914 -4.2527,3.61344 -8.0889,6.56989 -8.5248,6.56989 -0.4361,0 -0.7927,-2.95645 -0.7927,-6.56989 z m 15.3225,-21.39068 c 0,-1.88812 0.6882,-4.59833 1.5293,-6.02267 2.7662,-4.68435 -1.9413,-8.91068 -6.9965,-6.2813 -1.8663,0.9707 -2.4583,5.56827 -0.8421,6.53907 0.4958,0.29777 0.9014,2.4891 0.9014,4.86962 0,4.22516 0.064,4.32824 2.704,4.32824 2.5444,0 2.7039,-0.20256 2.7039,-3.43296 z m 7.2107,-28.60792 c 0,-15.2484 -18.7847,-15.70319 -19.67,-0.47622 -0.3627,6.23751 -0.3627,6.23751 9.6536,6.23751 10.0164,0 10.0164,0 10.0164,-5.76129 z"
-         style="fill:#ffffff;stroke:url(#linearGradient5857);stroke-width:3.14404488;stroke-miterlimit:4;stroke-dasharray:none" />
       <text
          transform="scale(0.99176715,1.0083012)"
          sodipodi:linespacing="125%"
@@ -2232,6 +2220,15 @@
              inkscape:connector-curvature="0"
              style="fill:#78af52" />
         </g>
+      </g>
+      <g
+         transform="matrix(0.58752108,0,0,0.57102189,511.33595,1109.3287)"
+         id="g5760">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5762"
+           d="m 1027.9081,-801.24154 c -0.01,-6.5061 0.234,-6.19461 -5.0905,-6.54256 -39.33342,-2.57045 -64.08876,-39.90874 -51.03962,-76.9824 19.06618,-54.16834 98.26742,-47.04726 107.73552,9.68662 5.0145,30.04794 -8.5548,52.82757 -44.9706,75.49451 -7.1522,4.45186 -6.6266,4.58308 -6.6348,-1.65617 z m 4.4351,-43.2256 c 0,-0.77421 -0.4226,-4.47132 -0.9392,-8.21579 -0.9393,-6.80813 -0.9393,-6.80813 1.0702,-8.9605 6.6106,-7.08115 1.6099,-18.44595 -8.1019,-18.41234 -9.6443,0.0334 -14.5506,11.18175 -8.0895,18.38198 1.9282,2.14884 1.9282,2.14884 0.8655,9.82695 -1.352,9.76794 -2.1634,8.78736 7.2714,8.78736 7.9235,0 7.9235,0 7.9235,-1.40766 z"
+           style="fill:#2a93e8;stroke:url(#linearGradient5764);stroke-width:1.61702251;stroke-miterlimit:4;stroke-dasharray:none" />
       </g>
     </g>
     <rect
